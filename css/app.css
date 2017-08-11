@@ -331,9 +331,11 @@ h4{
 	margin: 1em;
 }
  #uvm{
- 	width: 30%;
- 	height: 30%;
- 	margin: 0 0 3em;
+  margin: auto;
+    width: 50%;
+
+    padding: 10px;
+    text-align: center;
  }
 
  #unete{
@@ -350,7 +352,22 @@ h4{
  	margin: 2em 0;
 
  }
+#socios2 div.logos li{
+	
+	width: 30%;
+	display: inline-block;
+	margin: 5% 5% 10% 10%;
 
+	
+}
+#socios2 div.logos2 li{
+	
+	width: 70%;
+	display: inline-block;
+	margin: 5% 5% 10% 10%;
+
+	
+}
 
 #unete div.contacto li{
 	
@@ -361,7 +378,14 @@ h4{
 	
 }
   
+#logos div.contacto li{
+	
+	width: 15%;
+	display: inline-block;
+	margin: 5% 5% 10% 10%;
 
+	
+}
 
 
 
